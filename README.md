@@ -1,6 +1,6 @@
 👋 Hi there! I'm Aryaabhisek Mahapatra
 
-🎓 I'm a first-year MCA (Master of Computer Applications) student passionate about learning and building in the world of technology.  
+🎓 I'm a final-year MCA (Master of Computer Applications) student passionate about learning and building in the world of technology.  
 💡 Currently exploring programming, data structures, web development, and software engineering fundamentals.  
 📚 Always excited to learn new things and work on real-world projects to grow my skills.
 
