@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an final year MCA student<br>👯 I’m looking forward to collaborate<br>🌱 I’m currently learning MERN Technologies and AI<br>
+🔭 MCA Graduate<br>👯 I’m looking forward to collaborate<br>🌱 Exploring GenAI<br>
 
 
 ## 🌐 Socials:
